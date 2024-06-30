@@ -1,0 +1,96 @@
+*{
+    background-color: #ebe0f5;
+}
+
+.container{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    margin-top: 15%;
+}
+
+#formu{
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow:  39px 39px 55px #9b88ac,
+             -39px -39px 55px #fff2ff;
+}
+
+#peso, #altura{
+    width: 300px;
+    height: 29px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+}
+
+.flex{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    margin-top: 15%;
+}
+
+#head-historico{
+    margin-right: 10px;
+    display: grid;
+}
+
+h1{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#voltar{
+    background-color: #0000FF;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#dados{
+    border-left: 3px solid #08312f;
+    padding: 10px;
+}
+
+#dadosContainer{
+    font-size: large;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    border-radius: 9px;
+    font-size: large;
+    cursor: pointer;
+}
+
+label, #msg{
+    font-size: large;
+}
+
+label, input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#calcular{
+    background-color: #00FF00;
+    width: 90px;
+}
+
+#limpar{
+    background-color: #FFFF00;
+    width: 90px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#historico{
+    background-color: #FF0000;
+    width: 90px;
+}
+
+#msg{
+    display: flex;
+    justify-content: center;
+}

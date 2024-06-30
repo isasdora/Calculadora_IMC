@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
+    <title>Calculadora</title>
+</head>
+<body>
+
+    <div class="container">
+
+        <form action="#" id="formu" method="post">
+            <label for="peso">Digite seu peso:</label>
+            <br>
+            <input type="text" id="peso" placeholder="Ex: 50.0">
+            <br>
+            <label for="altura">Digite sua altura:</label>
+            <br>
+            <input type="text" id="altura" placeholder="Ex: 1.65">
+            <br>
+            <span id="msg"></span>
+            <br>
+            <div class="button">
+
+                <input class="button" type="submit" id="calcular" value="Calcular">
+                <input class="button" type="button" id="limpar" value="Limpar" onclick="limpa()">
+                <input class="button" type="button" id="historico" value="Histórico" onclick="histo()">
+
+            </div>
+
+        </form>
+
+    </div>
+
+    <script src="../js/script.js"></script>
+</body>
+</html>
