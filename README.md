@@ -1,6 +1,6 @@
 <h1 align="center">Calculadora IMC</h1>
 
-<p style="color: purple; font-weight: bold;">##Sobre o Projeto</p>
+<p>##Sobre o Projeto</p>
 <p>É um projeto voltado ao desenvolvimento e aprendizado da linguagem JAVASCRIPT e Node.js, é uma calculadora simples de IMC (Índice de Massa Corporal) que além de calcular armazena as informações inseridas e a hora que foi gerado o cálculo.
 O IMC é uma medida que avalia se uma pessoa está dentro do peso ideal com base na relação entre sua altura e peso. Ele é calculado dividindo o peso da pessoa (em quilogramas) pela altura ao quadrado (em metros).</p>
 
@@ -15,8 +15,8 @@ O IMC é uma medida que avalia se uma pessoa está dentro do peso ideal com base
         </ul>
 </ul>
 
-<p style="color: purple; font-weight: bold;">##Tecnologias Utilizadas</p>
-<p>- <span style="color: orange; font-weight: bold;">**JavaScript**</span>: Linguagem de programação que permite a implementação de itens complexos em páginas web.</p>
-<p>- <span style="color: orange; font-weight: bold;">**Node.js**</span>: Ambiente de execução JavaScript no lado do servidor.</p>
-<p>- <span style="color: orange; font-weight: bold;">**Express.js**</span>: Framework para Node.js que facilita a criação de servidores HTTP.</p>
-<p> - <span style="color: orange; font-weight: bold;">**XAMPP**</span>: Pacote de software gratuito e de código aberto que facilita a criação de um ambiente de desenvolvimento local para web.</p>
+<p>##Tecnologias Utilizadas</p>
+<p>- <span>**JavaScript**</span>: Linguagem de programação que permite a implementação de itens complexos em páginas web.</p>
+<p>- <span>**Node.js**</span>: Ambiente de execução JavaScript no lado do servidor.</p>
+<p>- <span>**Express.js**</span>: Framework para Node.js que facilita a criação de servidores HTTP.</p>
+<p> - <span>**XAMPP**</span>: Pacote de software gratuito e de código aberto que facilita a criação de um ambiente de desenvolvimento local para web.</p>
