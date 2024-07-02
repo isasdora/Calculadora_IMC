@@ -16,7 +16,7 @@ O IMC é uma medida que avalia se uma pessoa está dentro do peso ideal com base
 </ul>
 
 <p>##Tecnologias Utilizadas</p>
-<p>- <span>**JavaScript**</span>: Linguagem de programação que permite a implementação de itens complexos em páginas web.</p>
-<p>- <span>**Node.js**</span>: Ambiente de execução JavaScript no lado do servidor.</p>
-<p>- <span>**Express.js**</span>: Framework para Node.js que facilita a criação de servidores HTTP.</p>
-<p> - <span>**XAMPP**</span>: Pacote de software gratuito e de código aberto que facilita a criação de um ambiente de desenvolvimento local para web.</p>
+<p>- **JavaScript**: Linguagem de programação que permite a implementação de itens complexos em páginas web.</p>
+<p>- **Node.js**: Ambiente de execução JavaScript no lado do servidor.</p>
+<p>- **Express.js**: Framework para Node.js que facilita a criação de servidores HTTP.</p>
+<p>- **XAMPP**: Pacote de software gratuito e de código aberto que facilita a criação de um ambiente de desenvolvimento local para web.</p>
